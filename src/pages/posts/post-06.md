@@ -8,8 +8,7 @@ subtitle: |-
   _Have you ever wanted to find a way to make your work easier and save your time???_
 
   _The desire for productivity without any extra effort can be incredibly useful in everyday life, right?_
-excerpt: Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+excerpt: ''
 content_img:
   enabled: true
   path: images/pic10.jpg
