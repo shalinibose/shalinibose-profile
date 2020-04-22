@@ -91,5 +91,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/post-01.md
 - src/pages/posts/post-06.md
