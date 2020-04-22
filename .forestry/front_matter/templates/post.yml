@@ -93,5 +93,4 @@ fields:
 pages:
 - src/pages/posts/post-01.md
 - src/pages/posts/post-03.md
-- src/pages/posts/post-05.md
 - src/pages/posts/post-06.md
